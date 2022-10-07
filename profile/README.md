@@ -1,10 +1,10 @@
-Hola :wave:
+# Hola :wave:
 
 Data Engineering Latam es la comunidad de data más grande y chévere de Latinoamérica cuya misión es impulsar el talento de la región mediante la difusión de charlas, workshops, grupos de estudio, ayuda colaborativa y creación de contenidos relevantes.
 
 ¿Te gustaría participar de la comunidad y aprender de la mano de otros entusiastas del mundo de los datos?
 
-### Síguenos en nuestras redes oficiales:
+## Síguenos en nuestras redes oficiales:
 
 :tv: [YouTube](https://youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
@@ -24,12 +24,12 @@ Data Engineering Latam es la comunidad de data más grande y chévere de Latinoa
 
 :chart_with_upwards_trend: [Linkedin](https://linkedin.com/company/data-engineering-latam)
 
-### Conoce más de nosotros
+## Conoce más de nosotros
 
 👉[Web](https://beacons.ai/dataengineeringlatam)
 
-### ¿Quieres dar charla en la comunidad? Bienvenidos todos los que quieran participar compartiendo conocimiento:
+## ¿Quieres dar charla en la comunidad?
 
-:microphone: https://lnkd.in/eV5jTzr
+:microphone: [Inscríbete aquí](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
 :loudspeaker: ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
