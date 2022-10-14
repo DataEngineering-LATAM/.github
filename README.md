@@ -1,49 +1,37 @@
-Hola :wave:
+# :wave:¡Hola mundo!
 
 Data Engineering Latam es la comunidad de data más grande y chévere de Latinoamérica cuya misión es impulsar el talento de la región mediante la difusión de charlas, workshops, grupos de estudio, ayuda colaborativa y creación de contenidos relevantes.
 
 ¿Te gustaría participar de la comunidad y aprender de la mano de otros entusiastas del mundo de los datos?
 
-Síguenos en nuestras redes oficiales:
+# Alianzas
 
-:tv: YouTube: https://youtube.com/c/dataengineeringlatam?sub_confirmation=1
+<img src="https://cdn.beacons.ai/user_content/rRpWpCxc8sUsraIlYBpFfuEAY9n2/image_block/2ef135e3-973c-485e-9367-14cba558d1f8.png?t=1663901491309" witdh="100%" style="display:block" />
 
-:bird: Twitter: https://twitter.com/DataEngiLATAM
+# Grupos de estudios que organizamos
 
-:camera_flash: Instagram: https://instagram.com/dataengineeringlatam
+![](https://cdn.beacons.ai/user_content/rRpWpCxc8sUsraIlYBpFfuEAY9n2/image_block/a18cfe43-2387-459e-9648-4e6e4524315f.png?t=1656480908789)
 
-:+1: Facebook: https://facebook.com/dataengineeringlatam
+# Síguenos en nuestras redes oficiales
 
-:musical_score: TikTok https://www.tiktok.com/@dataengineeringlatam
+:tv: [YouTube](https://youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
-:books: Slack: https://bit.ly/dataengineeringlatam_slack
+:bird: [Twitter](https://twitter.com/DataEngiLatam)
 
-:envelope: Telegram: https://t.me/dataengineeringlatam
+:camera_flash: [Instagram](https://instagram.com/dataengineeringlatam)
 
-:chart_with_upwards_trend: Linkedin: https://linkedin.com/company/data-engineering-latam
+:+1: [Facebook](https://facebook.com/dataengineeringlatam)
 
-¿Quieres dar charla en la comunidad? Bienvenidos todos los que quieran participar compartiendo conocimiento:
+:musical_score: [TikTok](https://www.tiktok.com/@dataengineeringlatam)
 
-:microphone: https://lnkd.in/eV5jTzr
+:books: [Slack](https://bit.ly/dataengineeringlatam_slack)
 
-Grupos de Estudios:
+:envelope: [Telegram](https://t.me/dataengineeringlatam)
 
-:microphone: English speaking and stuff
+:chart_with_upwards_trend: [Linkedin](https://linkedin.com/company/data-engineering-latam)
 
-:microphone: DAMA (Data Management)
+# :microphone:¿Quieres dar charla en la comunidad? 
 
-:microphone: Apache Spark
-
-:microphone: Databricks
-
-:microphone: Airflow
-
-:microphone: Power BI
-
-:microphone: AWS
-
-:microphone: Azure
-
-:microphone: Club de Lectura / Designing data-intensive Applications :boar:
+Coméntanos [aquí](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
 :loudspeaker: ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
