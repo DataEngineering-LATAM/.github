@@ -16,6 +16,8 @@ Data Engineering Latam es la comunidad de data más grande y chévere de Latinoa
 
 :tv: [YouTube](https://youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
+📰 [Medium](https://medium.com/@dataengineeringlatam)
+
 :bird: [Twitter](https://twitter.com/DataEngiLatam)
 
 :camera_flash: [Instagram](https://instagram.com/dataengineeringlatam)
@@ -33,5 +35,7 @@ Data Engineering Latam es la comunidad de data más grande y chévere de Latinoa
 # :microphone:¿Quieres dar charla en la comunidad? 
 
 Coméntanos [aquí](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
+
+---
 
 :loudspeaker: ¡Pasa la voz y ayúdanos a ser la comunidad más grande y chévere de todas!
